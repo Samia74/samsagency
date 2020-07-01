@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat";
+    
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+nav a {
+    color:white;
+}
+
+.jumbotron {
+    background: url('https://images.unsplash.com/photo-1470214203634-e436a8848e23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjF9&auto=format&fit=crop&w=2691&q=80') center center no-repeat;
+    background-size: cover;
+    height: 25em;
+}
+
+.logo {
+    font-family: 'Long Cang', serif;
+    font-size: 1.5em;
+} 
+
+.title1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-size: 3em;
+    margin-top: 0px;
+}
+
+.title2 {
+    font-family: 'Montserrat';
+    color: yellow;
+    font-size: 3em;
+    font-weight: 500;
+}
+
+.title3 {
+    margin: auto;
+    font-size: 1.5em;
+    color: rgb(255, 255, 255);
+    max-width: 600px;
+    /* margin-left: 200px */
+
+}
+
+strong {
+    color: rgb(255, 174, 0);
+}
+
+#fly {
+    margin: 0px, 0px;
+}
